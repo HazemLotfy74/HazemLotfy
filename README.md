@@ -86,7 +86,7 @@ Flutter • Dart • BLoC • Clean Architecture • Hive • Supabase
 * Enterprise-level maintenance operations platform
 * Ticket automation & asset tracking
 * Role-based access management
-  🔗 GitHub: https://github.com/HazemLotfy7/EFS-Misr
+  🔗 GitHub: https://github.com/HazemLotfy74/EFS-Misr
 
 ---
 
@@ -94,7 +94,7 @@ Flutter • Dart • BLoC • Clean Architecture • Hive • Supabase
 
 * Free e-books discovery app
 * Search by genre & categories
-  🔗 GitHub: https://github.com/HazemLotfy7/bookly_app
+  🔗 GitHub: https://github.com/HazemLotfy74/bookly_app
 
 ---
 
