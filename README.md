@@ -1,17 +1,21 @@
-
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <h2 align="center">Hi, I'm Hazem Lotfy 👋</h2>
 
 <h3 align="center">
-Junior Flutter Developer | Flutter • Dart • BLoC • Clean Architecture
+Junior Flutter Developer | Published Mobile App Developer
 </h3>
 
 <p align="center">
-Clean Code • Scalable Apps • Real Products
+Flutter • Dart • BLoC • Clean Architecture • Hive • Supabase
+</p>
+
+<p align="center">
+🚀 Built & released real apps on Google Play • Clean Code • Scalable Apps
 </p>
 
 ### 📬 Contact Me
+
 <p align="center">
   <a href="mailto:hazemlotfy74@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -27,14 +31,19 @@ Clean Code • Scalable Apps • Real Products
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Junior Flutter Developer with **4+ real-world mobile applications**
-- 🧠 Strong experience with **BLoC, Clean Architecture, and MVVM**
-- 🔗 Backend integration with **Firebase & Supabase**
-- 🚀 Passionate about **clean code, performance, and scalable apps**
+
+* 🎯 Junior Flutter Developer with **5+ real-world applications**
+* 📱 Published a Quran app on Google Play with real users
+* 🧠 Strong experience with **BLoC, Clean Architecture, MVVM**
+* 💾 Skilled in **Hive & Local Storage**
+* 🔔 Built notification systems for real-time updates
+* 🔗 Backend integration with **Supabase & Firebase**
+* 🚀 Focused on performance, scalability, and clean architecture
 
 ---
 
 ### 🛠 Tech Stack
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35"/>
@@ -48,43 +57,70 @@ Clean Code • Scalable Apps • Real Products
 
 ### 💼 Projects & Experience
 
-**E-Commerce Mobile Application — Flutter**  
-- Full-featured e-commerce app using **Clean Architecture**
-- Authentication, PayPal payments, order tracking  
-- Reviews & ratings system  
-- Localization & theming  
-- Admin dashboard  
-🔗 GitHub: https://github.com/HazemLotfy74/e_commerce_app
+**Iqra App (Quran App) — Flutter | BLoC | Clean Architecture**
 
-**Bank Misr Maintenance App — Flutter | Supabase | BLoC**  
-- Enterprise-level maintenance operations platform  
-- Ticket automation & asset tracking  
-- Role-based access management  
-🔗 GitHub: https://github.com/HazemLotfy7/EFS-Misr
+* Full-featured Quran application available on Google Play
+* Surah navigation, Azkar, audio recitation, and last-read tracking
+* Offline support using Hive (Local Storage)
+* Optimized performance for smooth user experience
+  🔗 Google Play: https://play.google.com/store/apps/details?id=com.hazem.iqra
 
-**Bookly App — Flutter | BLoC | Clean Architecture**  
-- Free e-books discovery app  
-- Search by genre & categories  
-🔗 GitHub: https://github.com/HazemLotfy7/bookly_app
+---
 
-**Roshta App (Graduation Project)**  
-- AI-based OCR system to read handwritten medical prescriptions  
+**E-Commerce Mobile Application — Flutter**
 
-**Crypto Currency App — Flutter | Provider**  
-- Live crypto prices & charts  
-- Authentication & APIs  
+* Full-featured e-commerce app using Clean Architecture
+* Implemented real-time notification system for new products and order updates
+* Designed event-driven logic to trigger notifications on product creation and order placement
+* Integrated Firebase Cloud Messaging (FCM) for push notifications
+* Authentication, payments, and order tracking
+* Reviews & ratings system
+* Localization & theming
+* Admin dashboard
+  🔗 GitHub: https://github.com/HazemLotfy74/e_commerce_app
+
+---
+
+**Bank Misr Maintenance App — Flutter | Supabase | BLoC**
+
+* Enterprise-level maintenance operations platform
+* Ticket automation & asset tracking
+* Role-based access management
+  🔗 GitHub: https://github.com/HazemLotfy7/EFS-Misr
+
+---
+
+**Bookly App — Flutter | BLoC | Clean Architecture**
+
+* Free e-books discovery app
+* Search by genre & categories
+  🔗 GitHub: https://github.com/HazemLotfy7/bookly_app
+
+---
+
+**Roshta App (Graduation Project)**
+
+* AI-based OCR system to read handwritten medical prescriptions
+
+---
+
+**Crypto Currency App — Flutter | Provider**
+
+* Live crypto prices & charts
+* Authentication & APIs
 
 ---
 
 ### 📜 Certifications
-- Flutter Advanced – Clean Architecture & MVVM (Udemy)
-- Flutter Advanced – BLoC Pattern (Udemy)
-- E-Commerce App Development – Flutter, Firebase & Supabase
-- Flutter Developer – AMIT
-- Pioneers of Digital Egypt – MCIT
+
+* Flutter Advanced – Clean Architecture & MVVM (Udemy)
+* Flutter Advanced – BLoC Pattern (Udemy)
+* E-Commerce App Development – Flutter, Firebase & Supabase
+* Flutter Developer – AMIT
+* Pioneers of Digital Egypt – MCIT
 
 ---
 
 <p align="center">
-✨ Building scalable Flutter apps with passion ✨
+🔥 Building real-world Flutter apps that scale 🔥
 </p>
